@@ -7,7 +7,7 @@ public class task_03_fill_array {
 
     public static void main(String[] args) {
 
-        int arrayInt[] = new int[101];
+        int[] arrayInt = new int[101];
 
         int indexArray = 0;
 
